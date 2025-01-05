@@ -4,7 +4,7 @@ import React from "react";
 export default function Nav (){
   return (
     <>
-      <nav>
+      <nav className="container">
         <div className="logo">
           <img src= "/brand_logo.png"/>
         </div>
